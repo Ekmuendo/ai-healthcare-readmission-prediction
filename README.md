@@ -58,10 +58,7 @@ Hospitals need a reliable way to predict if a patient will be readmitted within 
 
 ## 🚀 Status
 
-✅ Part 1 Complete (Short Answers)  
-🛠️ Part 2 In Progress (Case Study)  
-📌 PDF & Final Report Coming Soon  
-📈 Diagram will be added in Part 4
+✅ Completed — All four parts of the AI assignment have been finalized, exported to PDF, and merged into a single submission-ready document. The repository includes both the markdown files and corresponding PDFs for full transparency and reproducibility.
 
 ---
 
